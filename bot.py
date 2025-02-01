@@ -95,10 +95,3 @@ intents.members = True
 client = Bot(intents=intents)
 client.run(os.getenv("TOKEN"))
 
-
-
-# print(is_twitter_link("https://x.com/LordKnightBB/status/1884740338947895719"))
-# print(is_twitter_link("https://fixvx.com/Q2Q_KANO/status/1884628108680310784"))
-# print(is_twitter_link("https://vxtwitter.com/JWonggg/status/1884387433413820428"))
-# print(is_twitter_link("https://bsky.app/profile/nintendousa.bsky.social/post/3lgw3fhg6bk27"))
-# print(is_twitter_link("https://bskyx.app/profile/nintendousa.bsky.social/post/3lgw3fhg6bk27"))
